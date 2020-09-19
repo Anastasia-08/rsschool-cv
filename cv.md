@@ -1,7 +1,7 @@
 1. Tkachenko Anastasia
-2. Contacts: 1. *number*: +375292399769 
-             2. *gmail*: ms.azazello.07@gmail.com 
-             3. *telegram*: +37377868969
+2. Contacts: * *number*: +375292399769 
+             * *gmail*: ms.azazello.07@gmail.com 
+             * *telegram*: +37377868969
 3. My *purpose*: to **travel**. my strengths: **dedication, perseverance, fast learning**.
 4.  * HTML;
     * CSS;
